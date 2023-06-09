@@ -1,0 +1,137 @@
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe.config
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\bin\Debug\QR based attendance.pdb
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.AssemblyReference.cache
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Properties.Resources.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.GenerateResource.cache
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.exe
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.pdb
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminLogin.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminHome.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddTeacher.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\bin\Debug\QRCoder.dll
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CopyComplete
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.MainPage.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Login.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddStudent.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Details.resources
+C:\Users\ADITYA\source\repos\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_HomePage.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe.config
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.pdb
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QRCoder.dll
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.AssemblyReference.cache
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddTeacher.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminHome.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminLogin.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.MainPage.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Properties.Resources.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Details.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_HomePage.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Login.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddStudent.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.GenerateResource.cache
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CoreCompileInputs.cache
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CopyComplete
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.exe
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.pdb
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_HomePage.resources
+G:\QR project\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_Login.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe.config
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.pdb
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QRCoder.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddTeacher.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminHome.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminLogin.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.MainPage.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Properties.Resources.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Details.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_HomePage.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Login.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddStudent.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_HomePage.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_Login.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CopyComplete
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.exe
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.pdb
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.xml
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.xml
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.QR.resources
+C:\Users\Administrator\Documents\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Show_Attendance.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe.config
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.pdb
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QRCoder.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.dll
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.xml
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.xml
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.xml
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.xml
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.AssemblyReference.cache
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddTeacher.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminHome.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminLogin.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.MainPage.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Properties.Resources.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.QR.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Show_Attendance.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Details.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_HomePage.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Login.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_HomePage.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_Login.resources
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.GenerateResource.cache
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CopyComplete
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.exe
+C:\Users\ADITYA\Downloads\QR PROJECT\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.pdb
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe.config
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.exe
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QR based attendance.pdb
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\QRCoder.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.dll
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.xml
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.xml
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\AForge.Video.DirectShow.xml
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.xml
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\bin\Debug\zxing.presentation.xml
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.AssemblyReference.cache
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AddTeacher.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminHome.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.AdminLogin.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.MainPage.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Properties.Resources.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.QR.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Show_Attendance.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Details.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_HomePage.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Student_Login.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_HomePage.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR_based_attendance.Teacher_Login.resources
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.GenerateResource.cache
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CoreCompileInputs.cache
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.csproj.CopyComplete
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.exe
+D:\POOJA\QR based attendance\QR based attendance\QR based attendance\obj\Debug\QR based attendance.pdb
